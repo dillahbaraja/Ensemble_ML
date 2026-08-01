@@ -1,0 +1,12 @@
+*.ex5
+*.log
+*.tmp
+
+MT5_2018.01.01-2026.06.30_ALL_.csv
+
+README_Assets_Location.md
+README_SYSTEM_Ensemble_ML_Trading.md
+
+EnsembleOnnxTrader_Assets/
+
+.tmp.driveupload/
