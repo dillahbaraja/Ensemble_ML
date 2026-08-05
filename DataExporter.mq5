@@ -1,11 +1,11 @@
 //+------------------------------------------------------------------+
 //|                                                 DataExporter.mq5 |
-//|                                  Copyright 2026, Antigravity AI  |
-//|                                             https://www.mql5.com |
+//|                                Copyright 2026, Abdillah Baradja  |
+//|                                            dillahbaraja@gmai.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2026, Antigravity AI"
-#property link      "https://www.mql5.com"
-#property version   "1.00"
+#property copyright "Copyright 2026, Abdillah Baradja"
+#property link      "dillahbaraja@gmail.com"
+#property version   "2.00"
 
 // --- Inputs ---
 input int InpHistoryBars = 70000;    // Maximum historical bars to scan on H1
